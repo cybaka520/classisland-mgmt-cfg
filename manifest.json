@@ -2,19 +2,19 @@
     "ServerKind": 0,
     "OrganizationName": "大成初级中学"
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/cybaka520/classisland-mgmt-cfg/master/classplans.json",
+        "Value": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/cybaka520/classisland-mgmt-cfg/master/classplans.json",
         "Version": 1
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/cybaka520/classisland-mgmt-cfg/master/timelayouts.json",
+        "Value": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/cybaka520/classisland-mgmt-cfg/master/timelayouts.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/cybaka520/classisland-mgmt-cfg/master/subjects.json",
+        "Value": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/cybaka520/classisland-mgmt-cfg/master/subjects.json",
         "Version": 1
     },
     "PolicySource": {
-        "Value": "https://raw.githubusercontent.com/cybaka520/classisland-mgmt-cfg/master/policy.json",
+        "Value": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/cybaka520/classisland-mgmt-cfg/master/policy.json",
         "Version": 1
     }
 }
